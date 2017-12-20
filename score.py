@@ -35,9 +35,6 @@ print("1 到 %d 之和为：%d "%(n,sum))
 
 
 
-
-
-#-*- coding utf-8 -*-
 from functools import reduce
 ###1*100之积
 def mult(begin, end):
