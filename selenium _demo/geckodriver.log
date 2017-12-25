@@ -2508,3 +2508,577 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 1514110415875	Marionette	INFO	New connections will no longer be accepted
 Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
 [Parent 11192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514187226740	geckodriver	INFO	geckodriver 0.19.1
+1514187226790	geckodriver	INFO	Listening on 127.0.0.1:53814
+1514187228978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.gtFT5cMY81dU"
+1514187229986	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514187231504	Marionette	INFO	Enabled via --marionette
+1514187236621	Marionette	INFO	Listening on port 53822
+1514187236893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514187237096	Marionette	DEBUG	Register listener.js for window 4294967297
+1514187237212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514187237424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514187237424	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514187239082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514187239602	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514187244546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187244787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187247046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187247287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187251717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187251974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187258319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187260178	Marionette	INFO	New connections will no longer be accepted
+1514187337942	geckodriver	INFO	geckodriver 0.19.1
+1514187337959	geckodriver	INFO	Listening on 127.0.0.1:54063
+1514187340030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.U999grH3D6dO"
+1514187341114	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514187342297	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514187347233	Marionette	INFO	Listening on port 54070
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1514187347387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514187347396	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1514187347432	Marionette	DEBUG	Register listener.js for window 6442450945
+1514187347473	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514187347477	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1514187347559	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514187347559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514187347568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+1514187347570	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://1.1.1.2/fs/customwebauth/login.html?switch_url=https://1.1.1.2/login.html&ap_mac=b4:a4:e3:65:b2:80&client_mac=a4:02:b9:06:c0:bb&wlan=CRPower&redirect=test1.zmninfo.com/SimulationElement/, line 67: TypeError: Not enough arguments to Document.getElementById.
+1514187368293	Marionette	INFO	New connections will no longer be accepted
+[Parent 8340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514187413052	geckodriver	INFO	geckodriver 0.19.1
+1514187413072	geckodriver	INFO	Listening on 127.0.0.1:54340
+1514187415094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.qj4Cm3yGOkyC"
+1514187415687	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514187416783	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514187422076	Marionette	INFO	Listening on port 54346
+1514187422459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514187422504	Marionette	DEBUG	Register listener.js for window 4294967297
+1514187422560	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514187422691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514187422691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514187425090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514187449776	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514187454293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187454518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187456755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187456983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187461249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187461496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187467781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187469602	Marionette	INFO	New connections will no longer be accepted
+1514187534854	geckodriver	INFO	geckodriver 0.19.1
+1514187534872	geckodriver	INFO	Listening on 127.0.0.1:54523
+1514187536975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.mCAzD8Ptjhhy"
+1514187539067	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514187540130	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514187543886	Marionette	INFO	Listening on port 54532
+1514187544352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514187544393	Marionette	DEBUG	Register listener.js for window 6442450945
+1514187544431	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514187544685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514187544685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514187549262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514187560018	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514187564625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187564852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187567092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187567328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187571621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187571855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187578145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514187585511	Marionette	INFO	New connections will no longer be accepted
+1514188143432	geckodriver	INFO	geckodriver 0.19.1
+1514188143452	geckodriver	INFO	Listening on 127.0.0.1:54939
+1514188145497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.vqhuC92Pbxnd"
+1514188147010	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514188148460	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514188155294	Marionette	INFO	Listening on port 54946
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514188155586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514188155631	Marionette	DEBUG	Register listener.js for window 4294967297
+1514188155661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514188156602	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514188156602	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514188158343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514188170820	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514188175299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188175521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188177749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188178005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188182271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188182501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188188786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188190607	Marionette	INFO	New connections will no longer be accepted
+1514188196678	geckodriver	INFO	geckodriver 0.19.1
+1514188196696	geckodriver	INFO	Listening on 127.0.0.1:55079
+1514188198716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.6mUeXslaebL1"
+1514188199888	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514188201206	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514188204839	Marionette	INFO	Listening on port 55085
+1514188205007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514188205059	Marionette	DEBUG	Register listener.js for window 4294967297
+1514188205114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514188205577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514188205578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514188207169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514188212015	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514188216478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188216719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188218968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188219227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188223544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188223776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188230071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514188237508	Marionette	INFO	New connections will no longer be accepted
+1514189656964	geckodriver	INFO	geckodriver 0.19.1
+1514189656984	geckodriver	INFO	Listening on 127.0.0.1:56319
+1514189659047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.yQVZ5LRqh5bS"
+1514189660093	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514189661302	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514189668963	Marionette	INFO	Listening on port 56327
+1514189669038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514189669090	Marionette	DEBUG	Register listener.js for window 4294967297
+1514189669165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514189669346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514189669347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514189673324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514189675313	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514189679831	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189680077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189682336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189682578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189686867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189687100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189693434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189700863	Marionette	INFO	New connections will no longer be accepted
+[Parent 9796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514189798858	geckodriver	INFO	geckodriver 0.19.1
+1514189798879	geckodriver	INFO	Listening on 127.0.0.1:56525
+1514189800938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.ErW4wBJRYblB"
+1514189801925	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514189803049	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7368] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514189808125	Marionette	INFO	Listening on port 56532
+1514189808327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514189808379	Marionette	DEBUG	Register listener.js for window 4294967297
+1514189808418	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514189808621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514189808621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514189810667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514189812654	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514189866047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189866830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189878607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189880214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189888395	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189889504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189904261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514189910908	Marionette	INFO	New connections will no longer be accepted
+1514190057772	geckodriver	INFO	geckodriver 0.19.1
+1514190057790	geckodriver	INFO	Listening on 127.0.0.1:56764
+1514190059826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.B9bNOioV34uQ"
+1514190061771	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514190063039	Marionette	INFO	Enabled via --marionette
+1514190067014	Marionette	INFO	Listening on port 56770
+1514190067237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514190067292	Marionette	DEBUG	Register listener.js for window 4294967297
+1514190067339	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514190067380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514190067380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514190070262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514190072324	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514190076851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190077075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190079325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190079580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190083866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190084120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190090406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190101141	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190140829	geckodriver	INFO	geckodriver 0.19.1
+1514190140847	geckodriver	INFO	Listening on 127.0.0.1:56926
+1514190142885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.GtLSmefbiV9v"
+1514190143944	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514190145354	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9408] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190150026	Marionette	INFO	Listening on port 56935
+1514190150227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514190150266	Marionette	DEBUG	Register listener.js for window 4294967297
+1514190150300	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514190150394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514190150394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514190151987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514190153942	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514190158521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190158742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190160982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190161226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190165547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190165790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190172147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190182852	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190609939	geckodriver	INFO	geckodriver 0.19.1
+1514190609959	geckodriver	INFO	Listening on 127.0.0.1:57314
+1514190611987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.74yJ4QWHspKM"
+1514190613327	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514190614646	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7520] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190619235	Marionette	INFO	Listening on port 57322
+1514190619336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514190619393	Marionette	DEBUG	Register listener.js for window 4294967297
+1514190619432	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514190619581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514190619582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514190621623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514190633362	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514190637913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190638176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190640444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190640697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190644986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190645213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190651557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190661966	Marionette	INFO	New connections will no longer be accepted
+[Parent 7520] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190836667	geckodriver	INFO	geckodriver 0.19.1
+1514190836691	geckodriver	INFO	Listening on 127.0.0.1:57544
+1514190838745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.BbPkbsPLFEtR"
+1514190840575	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514190841728	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190846350	Marionette	INFO	Listening on port 57552
+1514190846580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514190846620	Marionette	DEBUG	Register listener.js for window 4294967297
+1514190846655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514190847061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514190847061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514190848783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514190852659	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514190857149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190857389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190859644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190859888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190864188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190864449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190870779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190881740	Marionette	INFO	New connections will no longer be accepted
+1514190968157	geckodriver	INFO	geckodriver 0.19.1
+1514190968173	geckodriver	INFO	Listening on 127.0.0.1:57753
+1514190970217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.Qlxwua1t1Nzy"
+1514190970739	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514190971887	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514190976286	Marionette	INFO	Listening on port 57760
+1514190976568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514190976608	Marionette	DEBUG	Register listener.js for window 4294967297
+1514190976637	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514190976849	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514190976850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514190980493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514190987764	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514190992314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190992551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190994802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190995038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190999362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514190999600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191005940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191016587	Marionette	INFO	New connections will no longer be accepted
+1514191163937	geckodriver	INFO	geckodriver 0.19.1
+1514191163954	geckodriver	INFO	Listening on 127.0.0.1:57988
+1514191165993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.cErz30hL7Rx9"
+1514191166544	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191167634	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9684] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191171867	Marionette	INFO	Listening on port 57995
+1514191172327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191172370	Marionette	DEBUG	Register listener.js for window 4294967297
+1514191172410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191172462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191172462	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191173885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191176487	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191180989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191181213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191183450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191183681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191188001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191188250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191194580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191196420	Marionette	INFO	New connections will no longer be accepted
+1514191210429	geckodriver	INFO	geckodriver 0.19.1
+1514191210449	geckodriver	INFO	Listening on 127.0.0.1:58125
+1514191212496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.YK6cKiN25dkd"
+1514191213522	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191214891	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191219783	Marionette	INFO	Listening on port 58133
+1514191219857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191219910	Marionette	DEBUG	Register listener.js for window 4294967297
+1514191219974	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191220023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191220024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191221829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191224966	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191229620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191229851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191232091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191232319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191236659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191236897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191243216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191245069	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191300505	geckodriver	INFO	geckodriver 0.19.1
+1514191300527	geckodriver	INFO	Listening on 127.0.0.1:58270
+1514191302568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.1wq65JTkNxo1"
+1514191303616	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191304712	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9936] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191309248	Marionette	INFO	Listening on port 58278
+1514191309916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191309963	Marionette	DEBUG	Register listener.js for window 4294967297
+1514191310001	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191310038	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191310038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191311248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191312864	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191317462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191317684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191319936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191320198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191324500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191324740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191331060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191338482	Marionette	INFO	New connections will no longer be accepted
+1514191413777	geckodriver	INFO	geckodriver 0.19.1
+1514191413794	geckodriver	INFO	Listening on 127.0.0.1:58441
+1514191415841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.2AWBdvOdHPxb"
+1514191417368	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191418584	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6948] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191423868	Marionette	INFO	Listening on port 58447
+1514191424228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191424273	Marionette	DEBUG	Register listener.js for window 6442450945
+1514191424311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191424381	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191424381	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191425529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191427218	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191431828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191432059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191434315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191434565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191438886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191439116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191445469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191447340	Marionette	INFO	New connections will no longer be accepted
+[Parent 6948] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191455468	geckodriver	INFO	geckodriver 0.19.1
+1514191455485	geckodriver	INFO	Listening on 127.0.0.1:58568
+1514191457540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.oS7gOotzYz7D"
+1514191458563	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191460345	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191464293	Marionette	INFO	Listening on port 58574
+1514191464927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191464965	Marionette	DEBUG	Register listener.js for window 6442450945
+1514191465003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191465067	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191465067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191466248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191468936	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191473465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191473687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191475932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191476179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191480493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191480723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191487046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191497776	Marionette	INFO	New connections will no longer be accepted
+1514191534365	geckodriver	INFO	geckodriver 0.19.1
+1514191534387	geckodriver	INFO	Listening on 127.0.0.1:58718
+1514191536477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.EyT7gc05xvmG"
+1514191537470	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191538659	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191543795	Marionette	INFO	Listening on port 58726
+1514191543831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191543892	Marionette	DEBUG	Register listener.js for window 4294967297
+1514191543949	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191544015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191544016	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191545924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191547468	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191551961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191552201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191554439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191554705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191559029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191559272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191563922	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1514191565586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191576268	Marionette	INFO	New connections will no longer be accepted
+1514191945561	geckodriver	INFO	geckodriver 0.19.1
+1514191945579	geckodriver	INFO	Listening on 127.0.0.1:59463
+1514191947599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.y0ieHc5SLfMK"
+1514191948121	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514191949797	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514191953217	Marionette	INFO	Listening on port 59470
+1514191953518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514191953582	Marionette	DEBUG	Register listener.js for window 6442450945
+1514191953622	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514191953667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514191953667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514191954676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://test1.zmninfo.com/SimulationElement/"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f5b321b.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1514191955652	Marionette	DEBUG	Received DOM event "pageshow" for "http://test1.zmninfo.com/SimulationElement/"
+1514191960178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191960419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191962682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191962939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191967239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191967472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191973815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514191984531	Marionette	INFO	New connections will no longer be accepted

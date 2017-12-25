@@ -8,7 +8,7 @@ from selenium.webdriver import ActionChains
 
 class TestLogin(unittest.TestCase):
     def setUp(self):
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.Chrome()
         self.browser.implicitly_wait(20)
         self.base_url = "http://test1.zmninfo.com/SimulationElement/"
 
@@ -70,12 +70,29 @@ class TestLogin(unittest.TestCase):
         ##单击
         target1 = self.browser.find_element_by_xpath("/html/body/div[5]/div")
         ActionChains(self.browser).move_to_element(target1).click().perform()
-        time.sleep(3)
+        time.sleep(2)
 
+        ##双击
+        target2 = self.browser.find_element_by_xpath("/html/body/div[6]/div")
+        ActionChains(self.browser).move_to_element(target2).double_click().perform()
+        time.sleep(2)
 
+        ##菜单鼠标移动
+        menu = self.browser.find_element_by_xpath("/html/body/div[7]/ul/li[1]/a")
+        ActionChains(self.browser).move_to_element(menu).perform()
+        time.sleep(2)
+        menu1 = self.browser.find_element_by_xpath("/html/body/div[7]/ul/li[1]/ul/li[2]/a")
+        ActionChains(self.browser).move_to_element(menu1).perform()
+        time.sleep(2)
+        menu2 = self.browser.find_element_by_xpath("/html/body/div[7]/ul/li[1]/ul/li[2]/ul/li[2]/a")
+        ActionChains(self.browser).move_to_element(menu2).perform()
+        time.sleep(4)
 
-
-
+        ##拖拽鼠标
+        menu3 = self.browser.find_element_by_xpath("/html/body/div[8]/div/div[4]/span")  ### 定位元素的原位置
+        target = self.browser.find_element_by_xpath("/html/body/div[8]/div/div[5]/span") ### 定位元素要移动到的目标位置
+        ActionChains(self.browser).drag_and_drop(menu3,target).perform()
+        time.sleep(4)
 
 
 
