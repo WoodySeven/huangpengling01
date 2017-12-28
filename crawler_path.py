@@ -34,6 +34,6 @@ def usage():
 
 if __name__ == '__main__':
     #crawl_dirname()
-    crawl_path("E:\自动化测试\github\huangpengling01\selenium _demo")
+    crawl_path(r"E:\自动化测试\github\huangpengling01\selenium _demo")
 
 
