@@ -3082,3 +3082,39 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 1514191967472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1514191973815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1514191984531	Marionette	INFO	New connections will no longer be accepted
+1514529786281	geckodriver	INFO	geckodriver 0.19.1
+1514529786324	geckodriver	INFO	Listening on 127.0.0.1:56863
+1514529788358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\sanmao\\AppData\\Local\\Temp\\rust_mozprofile.DoaRPJggezOz"
+1514529790122	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514529791722	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18352] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514529799424	Marionette	INFO	Listening on port 56873
+1514529800559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514529800715	Marionette	DEBUG	Register listener.js for window 6442450945
+1514529800942	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514529801121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514529801122	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514529804612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ts.zhaopin.com/jump/index_new.html"
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1514529814658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450949"
+1514529814658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450950"
+1514529824672	Marionette	DEBUG	Received DOM event "pageshow" for "http://ts.zhaopin.com/jump/index_new.html"
+1514529825375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514529825756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514529826009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://img07.zhaopin.cn/2014/common/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://img01.zhaopin.cn/2014/c/js/resumeCenter/resumeCenterMain.js, line 1221: TypeError: ZPIDC.applyjob.showBestPop is not a function
+JavaScript error: https://img01.zhaopin.cn/2012/js/searchjob_20121008.js, line 1863: SyntaxError: nothing to repeat
+1514529829344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514529829469	Marionette	DEBUG	Register listener.js for window 6442450967
+1514529829746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450964"
+1514529829781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514529832789	Marionette	INFO	New connections will no longer be accepted
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\sanmao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 
+
 ##从文件中读数据
 def file_write_read():
     """
@@ -17,6 +18,7 @@ def file_write_read():
     for i in content:
         print(i.decode("utf-8").strip())
     fn.close()
+
 
 ##把数据写入到文件
     fp = open("名单.txt", "wb")
