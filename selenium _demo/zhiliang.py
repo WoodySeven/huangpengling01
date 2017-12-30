@@ -66,8 +66,11 @@ class ZhiliangLogin(unittest.TestCase):
         self.browser.find_element_by_id("c_buttonSelCity_765").click()
         time.sleep(2)
         ##点击确定
-        self.browser.find_element_by_xpath("/html/body/div[11]/div[2]/div[1]/a[1]").click()
-        time.sleep(2)
+        selector = 'div.sPopupTitle290 > div.sButtonBlock > a.orgButton'
+        element = self.browser.find_element_by_css_selector(selector)
+        element.click()
+        # self.browser.find_element_by_class_name("orgButton").click()
+        time.sleep(5)
         ##搜工作
         self.browser.find_element_by_xpath("//*[@id=\"searchForm\"]/form/div[8]/button").click()
         time.sleep(5)
