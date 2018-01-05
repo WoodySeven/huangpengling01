@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .p-10{
+            padding: 10px;
+        }
+        tr:nth-child(odd) {
+            background: #f00;
+        }
+    </style>
+</head>
+<body>
+<div class="p-10">
+    <p class="a"><button onclick="handleClicked(1)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(2)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(3)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(4)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(5)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(6)">点击这里</button></p>
+    <p class="a"><button onclick="handleClicked(7)">点击这里</button></p>
+</div>
+<h2>结果，被点击过的元素</h2>
+<div class="p10 res"></div>
+</body>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    const handleClicked = (index) => {
+        $('.res').append(`${index} ,`)
+    }
+</script>
+</html>
