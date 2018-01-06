@@ -79,10 +79,6 @@ class ZhiliangLogin(unittest.TestCase):
         self.browser.find_element_by_xpath("//*[@id=\"search_right_demo\"]/div[4]/div[1]/a[2]").click()
         time.sleep(10)
         ##列表选择奇数
-        # index = 1
-        # for i in range(index, 11):
-        #     index = index + i
-        #     self.browser.find_element_by_css_selector("tr:nth-child(%s)" % index).click()
         current_handle = self.browser.current_window_handle
         print("当前句柄：", current_handle)
         # 获取所有窗口句柄
@@ -91,13 +87,11 @@ class ZhiliangLogin(unittest.TestCase):
             if new_handle != current_handle:
                 print("旧窗口句柄：", current_handle)
                 print("新窗口句柄：", new_handle)
-        self.browser.switch_to_window(new_handle)
         check_boxes = self.browser.find_elements_by_name('vacancyid')
-        for i, cb in enumerate(check_boxes):
-            if i % 2 == 0:
-                cb.click()
-                time.sleep(10)
-
+        for i,check_box in enumerate(check_boxes):
+            if i %2 == 1:
+                check_box.click()
+                time.sleep(2)
 
 
 
