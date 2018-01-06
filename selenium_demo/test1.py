@@ -13,8 +13,7 @@ class Login(unittest.TestCase):
         cf.read("test.conf")
         self.base_url = str(cf.get("file", "file_path"))
         ##直接打开文件路径
-        # self.base_url = "file:///E:/automated_testing/github/huangpengling01/selenium_demo/test.html"
-
+        # self.base_url = "file:///G:/test/github/huangpengling01/selenium_demo/test.html"
     def test_bugfree_login(self):
         self.browser.get(self.base_url)
         for i in range(6):
