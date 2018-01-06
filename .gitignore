@@ -1,4 +1,4 @@
 venv
-.idea
 */*.log
 selenium_demo/test.conf
+.idea
