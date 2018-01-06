@@ -97,7 +97,7 @@ class ZhiliangLogin(unittest.TestCase):
 
         check_boxes = self.browser.find_elements_by_name('vacancyid')
         for i, cb in enumerate(check_boxes):
-            if i % 2 == 0:
+            if i % 2 == 2:
                 cb.click()
                 time.sleep(10)
 
