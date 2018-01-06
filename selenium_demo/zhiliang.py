@@ -87,12 +87,16 @@ class ZhiliangLogin(unittest.TestCase):
             if new_handle != current_handle:
                 print("旧窗口句柄：", current_handle)
                 print("新窗口句柄：", new_handle)
-        check_boxes = self.browser.find_elements_by_name('vacancyid')
-        for i,check_box in enumerate(check_boxes):
-            if i %2 == 1:
-                check_box.click()
-                time.sleep(2)
-
+        # check_boxes = self.browser.find_elements_by_name('vacancyid')
+        # for i,check_box in enumerate(check_boxes):
+        #     if i %2 == 1:
+        #         check_box.click()
+        #         time.sleep(2)
+        check_boxes=self.browser.find_elements_by_name('vacancyid')
+        for i,cb in enumerate(check_boxes):
+            if i %2 == 0:
+                cb.click()
+                time.sleep(3)
 
 
 
